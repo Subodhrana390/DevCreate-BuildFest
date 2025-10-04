@@ -1,10 +1,10 @@
-# AgriEco - Smart Crop Advisory System
+# Krishimitra AI- Smart Crop Advisory System
 
 A comprehensive agricultural technology platform designed to empower small and marginal farmers with intelligent crop advisory services, real-time market insights, and AI-powered decision support tools.
 
 ## 🌾 Overview
 
-AgriEco is a full-stack web application that leverages modern technologies to provide farmers with:
+Krishimitra AI is a full-stack web application that leverages modern technologies to provide farmers with:
 - AI-powered crop recommendations and advice
 - Real-time weather monitoring and alerts
 - Soil health analysis and fertilizer recommendations
